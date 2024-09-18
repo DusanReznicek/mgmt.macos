@@ -1,0 +1,11 @@
+#homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+#git
+brew install git
+
+#vsc
+brew install --cask visual-studio-code
+
+#dotnet
+brew install dotnet
